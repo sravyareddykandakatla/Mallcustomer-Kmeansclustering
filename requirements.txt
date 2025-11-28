@@ -1,0 +1,5 @@
+To run this,install the following Python libraries:
+->pandas
+->numpy
+->matplotlib
+->scikit-learn
